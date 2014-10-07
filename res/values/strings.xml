@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Mole</string>
+
+    <string name="action_save">Save</string>
+    <string name="action_push">Set push URL</string>
+    <string name="action_about">About</string>
+    
+    <string name="phoneType_string">Phone radio type:</string>
+    <string name="networkType_string">Network type:</string>
+    <string name="networkOperator_string">Network Operator:</string>
+    <string name="simOperator_string">SIM Operator:</string>
+    <string name="cID_string">Cell ID:</string>
+    <string name="lCID_string">Long Cell ID:</string>
+    <string name="lAC_string">Local Area Code:</string>
+    <string name="pSC_string">Primary Scrambling Code:</string>
+    <string name="sS_string">Signal Strength:</string>
+    <string name="mNC_string">Mobile Network Code:</string>
+    <string name="mCC_string">Mobile Country Code:</string>
+    <string name="countryCode_string">ISO Country Code:</string>
+    
+    <string name="gPSHeader_string">GPS</string>
+    
+    <string name="latitude_string">Latitude:</string>
+    <string name="longitude_string">Longitude:</string>
+    <string name="accuracy_string">Accuracy(m):</string>
+        
+    <string name="refreshButton_string">Refresh</string>
+    
+    <string name="pushMessage_string">Push server address:</string>
+    <string name="pushMessagePositive_string">Save</string>
+    
+    <string name="title_activity_about">AboutActivity</string>
+    <string name="hello_world">Hello world!</string>
+    
+    <string name="action_settings">Settings</string>
+    
+    <color name="actionbar_titletext">#000000</color>
+    <color name="actionbar_text">#000000</color>
+    <color name="actionbar_bgcolor">#bbb</color>
+    
+</resources>
